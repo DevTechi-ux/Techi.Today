@@ -116,7 +116,7 @@ const DigitalMarketingTestimonial = () => {
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                        “When we talk about Techi, it's not just about the technology; it's about transforming businesses, helping them navigate through the digital landscape with confidence and innovation.”										
+                        When we talk about Techi, it's not just about the technology; it's about transforming businesses, helping them navigate through the digital landscape with confidence and innovation.										
                         </p>
                         <h2 className="client__name-3">— [Shivam singh]	</h2>
                         <h3 className="client__role-3"> Director</h3>
@@ -125,7 +125,7 @@ const DigitalMarketingTestimonial = () => {
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                        “When we see Techi helping other businesses grow, it validates our purpose—creating meaningful, impactful solutions that truly make a difference in the market.”									
+                        When we see Techi helping other businesses grow, it validates our purpose—creating meaningful, impactful solutions that truly make a difference in the market.									
                         </p>
                         <h2 className="client__name-3">— [Suresh choudhary]	</h2>
                         <h3 className="client__role-3">Director</h3>

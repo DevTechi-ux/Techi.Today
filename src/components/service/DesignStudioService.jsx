@@ -78,7 +78,7 @@ const DesignStudioService = () => {
             <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
               <div className="sec-title-wrapper">
                 <h2 className="sec-title title-anim">
-                "Turning Ideas into Impactful Solutions — With a streamlined process from start to finish."
+                Turning Ideas into Impactful Solutions — With a streamlined process from start to finish.
                 </h2>
               </div>
             </div>

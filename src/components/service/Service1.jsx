@@ -291,7 +291,7 @@ const Service1 = () => {
                           Empower Your Sales Teams with Comprehensive Office Setups.
                         </h2>
                         <p>
-                          Techi provides full support for sales team setups, whether you’re a startup operating domestically or expanding internationally. We offer everything you need, from office equipment to cutting-edge tools that drive your sales operations.
+                          Techi provides full support for sales team setups, whether you&apos;re a startup operating domestically or expanding internationally. We offer everything you need, from office equipment to cutting-edge tools that drive your sales operations.
                           Our team ensures you have the infrastructure to support growth and streamline communication, no matter where your team is located.
                         </p>
                         <ul>
@@ -375,7 +375,7 @@ const Service1 = () => {
 
                       <div className="animation__service_page">
                         <h2 className="service__title-6">
-                          Bring Your Game Ideas to Life with Techi’s Expert Game Development Services.
+                          Bring Your Game Ideas to Life with Techi&apos;s Expert Game Development Services.
                         </h2>
                         <p>
                           Techi specializes in creating engaging and immersive games, including fantasy games, mobile games, and interactive experiences. Whether you're looking to develop a new fantasy sports game or an innovative app, our experienced team of game developers is here to help.

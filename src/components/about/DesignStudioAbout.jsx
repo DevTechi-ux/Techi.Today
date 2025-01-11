@@ -50,16 +50,16 @@ const DesignStudioAbout = () => {
             <div className="col-xxl-12">
               <div className="sec-title-wrapper">
                 <h2 className="sec-title title-anim">
-                Full-Stack Developers
-UI/UX Designers
-<br /> Cloud Engineers <br />
-IT Consultants 
+                  Full-Stack Developers
+                  UI/UX Designers
+                  <br /> Cloud Engineers <br />
+                  IT Consultants
                 </h2>
               </div>
               <div className="sec-text-wrapper">
                 <div className="sec-text text-anim">
                   <p>
-                   At Techi, we have a dedicated team of full-stack developers, designers, and IT experts who are passionate about technology and innovation. Our team is committed to delivering cutting-edge solutions tailored to your needs.
+                    At Techi, we have a dedicated team of full-stack developers, designers, and IT experts who are passionate about technology and innovation. Our team is committed to delivering cutting-edge solutions tailored to your needs.
                   </p>
                 </div>
                 {/* <div className="sec-btn btn_wrapper">
@@ -91,7 +91,7 @@ IT Consultants
           <div className="row">
             <div className="col-xxl-12">
               <h2 className="brand__title-2 title-anim">
-              "Empowering Your Future with Tailored Financial Solutions — From business loans to personal financial growth, we help you secure, invest, and thrive."
+                Empowering Your Future with Tailored Financial Solutions — From business loans to personal financial growth, we help you secure, invest, and thrive.
               </h2>
               <div className="brand__list-2">
                 <div className="brand__item-2 fade_bottom">
