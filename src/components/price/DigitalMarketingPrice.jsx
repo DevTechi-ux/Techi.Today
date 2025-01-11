@@ -164,7 +164,7 @@ const DigitalMarketingPrice = () => {
                   </div>
                   <div className="price__amount">
                     <p>
-                      $12<span> .99</span>
+                      $0
                     </p>
                   </div>
                 </div>
