@@ -60,7 +60,7 @@ const DigitalMarketingPrice = () => {
                 <Accordion defaultActiveKey="0" className="accordion">
                   <Accordion.Item eventKey="0" className="accordion-item">
                     <Accordion.Header>
-                    hat services does Techi provide?	
+                    What services does Techi provide?	
                     </Accordion.Header>
                     <Accordion.Body>
                       <div>
