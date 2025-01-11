@@ -1,0 +1,58 @@
+{
+  "nav": [
+    {
+      "nav_name": "Home",
+      "link": "/digital-marketing",
+      "type": "megamenu",
+      "full_width": false,
+      "sub_nav": [
+        {
+          "title": "Agency",
+          "data": [
+            {
+              "name": "Software Development",
+              "link": "/design-studio"
+            },
+            {
+              "name": "Digital Marketing",
+              "link": "/digital-agency"
+            }
+            
+          ]
+        },
+        {
+          "title": "Agency Dark",
+          "data": [
+            {
+              "name": "Software Development Dark",
+              "link": "/design-studio-dark"
+            },
+            {
+              "name": "Digital Marketing Dark",
+              "link": "/digital-agency-dark"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nav_name": "Stockpip",
+      "link": "https://www.stockpip.com/",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Services",
+      "link": "/service",
+      "type": "",
+      "sub_nav": [ ]
+    },
+
+    {
+      "nav_name": "Contact",
+      "link": "/contact",
+      "type": "",
+      "sub_nav": []
+    }
+  ]
+}
